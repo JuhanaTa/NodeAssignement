@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JuhanaTa/NodeAssignement/issues"
   },
-  "homepage": "https://github.com/JuhanaTa/NodeAssignement#readme"
+  "homepage": "https://github.com/JuhanaTa/NodeAssignement#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
